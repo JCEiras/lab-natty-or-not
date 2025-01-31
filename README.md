@@ -5,13 +5,15 @@
 Pôster de divulgação do show “BR – ROCK ON THE STAGE”, rock brasileiro em terras norte-americanas, a ser realizado em Orlando/Florida, em 26 de Abril de 2025. No line-up bandas incríveis e renomadas: “VITAL”, “MARVIN” e “NATASHA”.
 
 ## 🤖 Tecnologias Utilizadas
-•	IA Generativa IDEOGRAM.AI https://ideogram.ai/login
+•	IA Generativa IDEOGRAM.AI [https://ideogram.ai/login](https://ideogram.ai/login) - ARTE FINAL APRESENTADA
+IA Generativa LEONARDO.AI [https://ideogram.ai/login](https://leonardo.ai/) - TENTATIVAS
+IA Generativa CANVA [https://www.canva.com/dream-lab](https://www.canva.com/dream-lab) - TENTATIVAS
 
 ## 🧐 Processo de Criação
 Inicialmente, tentei utilizar LEONARDO.AI para desenvolver um pôster de um festival de pop/rock a ser realizado no Rio de Janeiro, imaginando que seria gerado algo que denotasse a Cidade Maravilhosa, com as suas belezas naturais e a imagem do Cristo Redentor ou do Pão de Açúcar. Além disso, solicitei que a IA criasse o nome das bandas participantes, seus logos e até mesmo o nome do festival.
 “Create a poster to promote a pop and rock music festival, in an open space in the city of Rio de Janeiro Brazil, in April 2025. Create the names of the bands, the band logos and the name and logo of the festival.”
 Contudo, não obtive sucesso, pois o pôster criado não remetia ao Rio de Janeiro; os nomes das bandas estavam, em sua grande maioria, sem sentido e com letras que não existem no alfabeto inglês e o nome do festival seria “ROCK FESTIVAL FESTIVAL” ou “POP & ROCK FESTIVAL”.
-Posteriormente, tentei criar tanto no CANVA quanto no LEONARDO.AI, um festival de música brasileira nos EUA, de grande proporção e visibilidade (semelhante ao Lolapalooza), com a participação massiva de expoentes do rock, pop e reggae, conforme instruções abaixo (LEONARDO.IA):
+Posteriormente, tentei criar tanto no CANVA quanto no LEONARDO.AI, um festival de música brasileira nos EUA, de grande proporção e visibilidade (semelhante ao Lolapalooza), com a participação massiva de expoentes do rock, pop e reggae, conforme instruções abaixo (LEONARDO.AI):
 
 “Create a poster to promote a Brazilian musical culture festival, focusing on rock, pop and reggae, which will take place at the Hard Rock Stadium, in Orlando, Florida, in the United States, on April 26th and 27th, 2025. The name of the festival will be BR - ROCK ON THE STAGE. The name of the festival, date and location must appear on this poster, as well as the names of the bands. 
 The festival will feature the presence of several incredible and renowned bands and artists, such as: Paralamas do Sucesso, Titãs, Capital Inicial, Ira!, CPM 22, Pitty, Paula Toller, Paulo Miklos, Nando Reis, Detonautas, Braza, Dead Fish, Sepultura, Raimundos, Ratos de Porão, Sugar Kane, Frejat, Samuel Rosa, Marcelo Falcão, Supla, Paulo Ricardo, Marcelo D2, Autoramas, Tihuana, Marcelo Bonfá e Dado Villa-Lobos tocam Legião Urbana, Thiago Castanho e Marcos Britto tocam Charlie Brown Jr., Vespas Mandarinas, Bidê ou Balde, Cachorro Grande, Vivendo do Ócio, Baiana System, Humberto Gessinger, Ultraje a Rigor, Blitz, Barão Vermelho, Fresno, Di Ferrero, Planta e Raiz, Natiruts, Toni Garrido.
