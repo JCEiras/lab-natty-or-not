@@ -1,6 +1,5 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-# Criptoativos e Geração de Valor Real 
 
 ## 📒 Descrição
 Pôster de divulgação do show “BR – ROCK ON THE STAGE”, rock brasileiro em terras norte-americanas, a ser realizado em Orlando/Florida, em 26 de Abril de 2025. No line-up bandas incríveis e renomadas: “VITAL”, “MARVIN” e “NATASHA”.
