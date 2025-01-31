@@ -6,8 +6,8 @@ Pôster de divulgação do show “BR – ROCK ON THE STAGE”, rock brasileiro 
 
 ## 🤖 Tecnologias Utilizadas
 •	IA Generativa IDEOGRAM.AI [https://ideogram.ai/login](https://ideogram.ai/login) - ARTE FINAL APRESENTADA
-IA Generativa LEONARDO.AI [https://ideogram.ai/login](https://leonardo.ai/) - TENTATIVAS
-IA Generativa CANVA [https://www.canva.com/dream-lab](https://www.canva.com/dream-lab) - TENTATIVAS
+• IA Generativa LEONARDO.AI [https://ideogram.ai/login](https://leonardo.ai/) - TENTATIVAS
+• IA Generativa CANVA [https://www.canva.com/dream-lab](https://www.canva.com/dream-lab) - TENTATIVAS
 
 ## 🧐 Processo de Criação
 Inicialmente, tentei utilizar LEONARDO.AI para desenvolver um pôster de um festival de pop/rock a ser realizado no Rio de Janeiro, imaginando que seria gerado algo que denotasse a Cidade Maravilhosa, com as suas belezas naturais e a imagem do Cristo Redentor ou do Pão de Açúcar. Além disso, solicitei que a IA criasse o nome das bandas participantes, seus logos e até mesmo o nome do festival.
